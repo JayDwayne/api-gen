@@ -1,2 +1,2 @@
 # api-gen
-Create an API with a modular structure, lazy specifications, MySQL tables, and PHP code.
+Generate an API with a lazy specification, MySQL tables, PHP code... in a modular structure.
